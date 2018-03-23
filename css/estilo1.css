@@ -1,0 +1,33 @@
+.menu {
+  /* float:  inherit;*/
+  display: inline-block;
+  position: relative;
+  padding: 30px;
+  /*border: 4px solid #4CAF50;*/
+}
+
+ .img {
+  /*float: left;*/
+  display: inline-block;
+  padding: 30px;
+  position: relative;
+  left: 40px;
+/*  border: 4px solid #4CAF50;*/
+}
+
+.campos {
+  /* float:center;*/
+  display: inline-block;
+  position: relative;
+  center: 40px;
+  padding: 30px;
+  /*border: 4px solid*/
+}
+
+header, footer {
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
+}
